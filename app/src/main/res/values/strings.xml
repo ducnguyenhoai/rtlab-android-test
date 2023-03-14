@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Test</string>
+    <string name="label_select_folder">Select folder</string>
+    <string name="label_folder">Folder:</string>
+</resources>
